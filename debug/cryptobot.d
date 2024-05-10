@@ -1,0 +1,1 @@
+/home/loic/Bureau/cb2/target/debug/cryptobot: /home/loic/Bureau/cb2/src/Bot/bot_struct.rs /home/loic/Bureau/cb2/src/Data/pente.rs /home/loic/Bureau/cb2/src/Data/pente_view.rs /home/loic/Bureau/cb2/src/Data/penteofbtc.rs /home/loic/Bureau/cb2/src/fenetres/bot_center.rs /home/loic/Bureau/cb2/src/fenetres/pentes_center.rs /home/loic/Bureau/cb2/src/main.rs
